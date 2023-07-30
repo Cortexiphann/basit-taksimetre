@@ -1,4 +1,4 @@
-//FurkanFilikci
+
 import java.util.Scanner;
 
 public class Taksimetre {
